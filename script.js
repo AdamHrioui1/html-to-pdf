@@ -1,3 +1,5 @@
+import html2pdf from 'html2pdf.js'
+
 const pdfDownload = e => {
     
     e.preventDefault()
